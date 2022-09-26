@@ -8,7 +8,7 @@ const router = new VueRouter({
   mode: 'history',
   routes: [
     { 
-      path: '/test', 
+      path: '/posts', 
       component: PostList
     },
   ]
